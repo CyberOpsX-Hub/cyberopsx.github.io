@@ -1,4 +1,4 @@
-# 🌐 CyberOpsX Website
+# 🌐 CyberOpsX Website — Version 1.0.0 (25 août 2025)
 
 Version 1.0.0
 
@@ -66,3 +66,4 @@ Pour toute question ou collaboration :
 ---
 
 > 💡 *« L’intelligence artificielle (IA) au service de la cyberdéfense de demain »* — CyberOpsX
+
