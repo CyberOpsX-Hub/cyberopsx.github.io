@@ -1,4 +1,14 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# cyberopsx-website
+Brève description de ce que fait le projet.
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+## 🚀 Installation
+Instructions pour installer/configurer le projet.
+
+## 📖 Utilisation
+Exemples d’utilisation ou commandes principales.
+
+## 🤝 Contribution
+Règles de contribution (issues, pull requests).
+
+## 📜 Licence
+Lien ou référence à la licence du projet.
