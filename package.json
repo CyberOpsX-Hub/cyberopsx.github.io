@@ -1,7 +1,7 @@
 {
-  "name": "demo-repo",
+  "name": "cyberopsx-hub-website",
   "version": "0.2.0",
-  "description": "A sample package.json",
+  "description": "Site web officiel de CyberOpsX Hub - Cybersécurité et IA pour l'IT et l'OT",
   "dependencies": {
     "@primer/css": "17.0.1"
   },
