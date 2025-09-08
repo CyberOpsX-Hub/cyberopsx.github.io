@@ -1,10 +1,10 @@
-# 🌐 CyberOpsX Website — Version 1.0.0 (25 août 2025)
+# CyberOpsX Website — Version 1.0.0 (25 août 2025)
 
 Présentement en développement, ce dépôt contient le code source du site web officiel de CyberOpsX, un projet personnel dédié à la cyberdéfense, à l’intelligence artificielle et à la sensibilisation à la sécurité informatique. Le site présente des tutoriels, des études de cas, des modules interactifs et des ressources bilingues (FR/EN) pour les passionnés de cybersécurité.
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. **Cloner le dépôt** :
    ```bash
@@ -21,7 +21,7 @@ Présentement en développement, ce dépôt contient le code source du site web 
 
 ---
 
-## 📖 Utilisation
+## Utilisation
 
 - Le site est structuré en plusieurs sections :
   - `index.html` (FR) et `index-en.html` (EN) : pages d’accueil bilingues.
@@ -33,7 +33,7 @@ Présentement en développement, ce dépôt contient le code source du site web 
 
 ---
 
-## 🤝 Contribution
+##Contribution
 
 Les contributions sont les bienvenues ! Voici comment participer :
 
@@ -55,18 +55,19 @@ Ce projet est sous licence **MIT**. Tu peux consulter le fichier [`LICENSE`](LIC
 
 ---
 
-## 📫 Contact
+##Contact
 
 Pour toute question ou collaboration :
-- 📧 [contact@cyberopsx.ca](mailto:contact@cyberopsx.ca)
-- 🌐 [https://cyberopsx.ca](https://cyberopsx.ca)
+-  [contact@cyberopsx.ca](mailto:contact@cyberopsx.ca)
+- [https://cyberopsx.ca](https://cyberopsx.ca)
 
 ---
 
-## 🕒 Historique des versions
+## Historique des versions
 
 - **v1.0.0** — 25 août 2025 : Première version publique du site CyberOpsX.
 
 ---
 
-> 💡 *« L’intelligence artificielle (IA) au service de la cyberdéfense de demain »* — CyberOpsX
+> *« L’intelligence artificielle (IA) au service de la cyberdéfense de demain »* — CyberOpsX
+
