@@ -1,3 +1,4 @@
+#1-
 name: Auto Assign
 on:
   issues:
@@ -17,3 +18,43 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           assignees: jeansorigene
           numOfAssignee: 1
+
+
+#2
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # ou master selon ton repo public
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v2
+
+#3
+name: Proof HTML
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anishathalye/proof-html@v1.1.0
+        with:
+          directory: ./
